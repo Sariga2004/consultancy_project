@@ -107,7 +107,7 @@ p
 }
 #gallery .background-image1
 {
-    /background-image: url('https://homeworlddesign.com/wp-content/uploads/2020/11/Santa-Monica-Apartment-10.jpg');/
+    background-image: url('https://homeworlddesign.com/wp-content/uploads/2020/11/Santa-Monica-Apartment-10.jpg');/
 }
 .btn
  {
@@ -270,6 +270,7 @@ header img
     text-align: center;
   }
 
+  
 
  
   
